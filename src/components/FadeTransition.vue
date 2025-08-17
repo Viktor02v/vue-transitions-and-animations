@@ -16,8 +16,7 @@
 .fade-leave-active {
   transition: opacity 0.5s ease, transform 0.5s ease;
 }
-.fade-enter-from,
-.fade-leave-to {
+.fade-enter-from {
   opacity: 0;
   transform: translateY(-10px);
 }
